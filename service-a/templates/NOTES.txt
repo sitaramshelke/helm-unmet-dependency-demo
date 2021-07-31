@@ -1,0 +1,3 @@
+yada yada yada, your service has been installed in the cluster
+
+{{ include "common-lib.unmet_dependencies_warning" .Values.externalDependencies }}
